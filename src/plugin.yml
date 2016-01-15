@@ -1,0 +1,9 @@
+name: DreamerTp
+main: dreamertp.DreamerTp
+version: 1.0
+
+depend: [DreamWorldStarter]
+
+commands:
+    world:
+        description: World and spawn location
